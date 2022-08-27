@@ -1,6 +1,6 @@
-name: local_cache
+name: wuchuheng_local_cache
 description: This is a local cache libery.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/wuchuheng/local_cache_dart
 
 environment:

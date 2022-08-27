@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:local_cache/src/local_cache_abstract.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:wuchuheng_local_cache/src/local_cache_abstract.dart';
 
 import 'errors/key_not_found_error.dart';
 

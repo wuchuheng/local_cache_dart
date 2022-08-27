@@ -1,4 +1,4 @@
-import 'package:local_cache/local_cache.dart';
+import 'package:wuchuheng_local_cache/wuchuheng_local_cache.dart';
 
 void main() async {
   LocalCache localCache = LocalCache();
